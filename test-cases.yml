@@ -302,7 +302,7 @@
     Открыть браузер и зайти на страницу https://codebattle.hexlet.io/.
     Нажать на кнопку "Sign In" и пройти авторизацию по адресу электронной почты и паролю.
     Нажать на кнопку "Create a game".
-    Выбрать "Level" - 1 зведа.
+    Выбрать "Level" - 1 звезда.
     Выбрать "Game Type" - кнопка  "With a bot".
     Выбрать "Time control"- 8 минут.
     Выбрать задачу ("Choose task by name or tags") - polygon_angles_sum.
@@ -381,7 +381,7 @@
     Открыть браузер и зайти на страницу https://codebattle.hexlet.io/.
     Нажать на кнопку "Sign In" и пройти авторизацию по адресу электронной почты и паролю.
     Нажать на кнопку "Create a game".
-    Выбрать "Level" - 1 зведа.
+    Выбрать "Level" - 1 звезда.
     Выбрать "Game Type" - кнопка  "With a bot".
     Выбрать "Time control"- 8 минут.
     Выбрать задачу ("Choose task by name or tags") - polygon_angles_sum.
@@ -420,7 +420,7 @@
     Пароль: Qwerty
   steps:
     - В первом браузере нажать на кнопку "Create a game".
-    - Выбрать "Level" - 1 зведа.
+    - Выбрать "Level" - 1 звезда.
     - Выбрать "Game Type" - кнопка  "With a friend".
     - В поле "Choose opponent" выбрать игрока "test-qa-86"
     - Выбрать "Time control"- 8 минут.
